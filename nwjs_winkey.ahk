@@ -3,7 +3,7 @@
 
 	This script will run along with the node webkit app as a child process.
 	It will reassign the "Ctrl+Alt+Shift" key combo in the NW app to the Winkey.
-	The script accepts a single command line parameter, which will be the hotkey combined with the Winkey in the NW app.
+	The script accepts any number of hotkey parameters, which will be the hotkeys combined with the Winkey in the NW app.
 
 	Notes: 
 		- Script must be compiled to accept parameters. Use AHK2Exe.
